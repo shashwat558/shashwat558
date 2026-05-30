@@ -20,9 +20,9 @@ docker · aws · supabase · tailwind · websockets · rust · ai agents
 
 ## how i work
 
-I don't start from tutorials. I start from problems.
+I like to understand problems from first principles before choosing technologies or frameworks.
 
-Frontend, backend, infrastructure, deployment — I own the entire stack. I care less about trends and more about building products that solve real problems and scale reliably.
+I work across frontend, backend, infrastructure, and deployment, which helps me see the bigger picture when building products. I care about creating software that is practical, dependable, and delivers value to the people using it.
 
 ## currently going deeper on
 
