@@ -1,20 +1,53 @@
-<h1 align="center">Hi 👋, I'm Shashwat Jain</h1>
-<h3 align="">And i am trying to just do things</h3>
+<div align="center">
 
-<img src="https://media.npr.org/assets/img/2016/06/09/john-p-fleenor-courtesy-of-hbo_wide-f730538a10afad26c9de9a42561772522e4e87e6.jpg?s=800&c=85&f=webp" alt="bootstrap" width="900" height="400"/>
+# Shashwat Jain
 
+**Full-stack developer shipping real-time and AI-powered apps from scratch.**
 
-- 🔭 I’m currently working on **RejectionGPT**
+[twitter](https://x.com/shashwatj26) · [website](https://shashwatt.tech) · [email](mailto:jainshashwat528@gmail.com)
 
-- 🌱 I’m currently learning **Rust and blockchain development**
+</div>
 
-- 📫 How to reach me **jainshashwat528@gmail.com**
+---
 
+### my stack
 
+typescript · javascript · next.js · react · node.js · express · postgresql · prisma · mongodb · redis · tailwind · docker · aws · supabase · bash · python · rust (learning)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### things i've built
 
+- [buildtogether](https://buildtogether.vercel.app) — Real-time collaborative workspace where teams can write, plan and build together. WebSockets, Prisma, PostgreSQL, Docker under the hood.
 
+- [RejectionGPT](https://rejection-gpt.vercel.app) — AI tool that analyzes job rejection patterns and helps you understand why you're not getting callbacks. Built with Next.js and Supabase.
 
+- [knowyourproduct](https://knowyourproduct.vercel.app) — Paste any product and get a breakdown of its target audience, positioning, and competitive gaps using AI.
+
+- [portfolio](https://shashwatt.tech) — My corner of the internet. Built with Next.js and TypeScript.
+
+---
+
+### building from zero
+
+I don't pick up tutorials and follow along. I pick up a problem, figure out what it needs, and build it. Frontend, backend, infra, deployment — I work across the full stack because good products need someone who understands all of it.
+
+I care less about which framework is trending and more about whether the thing I'm shipping actually solves something.
+
+---
+
+### currently exploring
+
+- **Rust** — systems programming, memory management, building things closer to the metal
+- **Blockchain development** — smart contracts, on-chain apps, decentralized systems
+- **Real-time systems** — deeper work with WebSockets, CRDTs, and collaborative infrastructure
+- **AI integrations** — building LLM-powered features that feel useful, not gimmicky
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwat558&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat558&theme=default&hide_border=true)
+
+</div>
